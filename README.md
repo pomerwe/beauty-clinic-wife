@@ -16,11 +16,6 @@ The page features an introduction to her services, a summary of her **Instagram 
 - HTML5  
 - CSS3 (no frameworks)
 
-## 🔗 External Links
-
-- 📱 **Instagram:** [@clinicadeexemplo](https://instagram.com/clinicadeexemplo)  
-- 💬 **WhatsApp:** [Click to chat](https://wa.me/5599999999999)
-
 ## 📌 Notes
 
 This page was created as a personal project to support my wife's business and offer her clients a quick, beautiful, and accessible way to reach her.

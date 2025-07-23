@@ -1,4 +1,4 @@
-# 💖 Esthetic Clinic Landing Page
+# 💖 Paula Edwiges Beauty Clinic Landing Page
 
 This is a simple and elegant **landing page** developed using only **HTML** and **CSS** for my wife's **aesthetic clinic**.  
 The page features an introduction to her services, a summary of her **Instagram profile**, and a direct link to her **WhatsApp** for easy client contact.
